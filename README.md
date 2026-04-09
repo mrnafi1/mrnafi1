@@ -1,5 +1,14 @@
+
+<div align="center">
+  <img src="5131.jpg" alt="Mushfiq Nafi Header Image">
+  <br>
+</div>
 <h1 align="center">Hi 👋, I'm Mushfiqur Nafi</h1>
 <h3 align="center">​Architecting interactive and responsive web interfaces with React, Vue, and GSAP.</h3>
+
+- 💬 Ask me about **React, Vue, GSAP, Modern JavaScript, and Tailwind CSS**
+
+- 📫 How to reach me **mushfiqurnafi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
